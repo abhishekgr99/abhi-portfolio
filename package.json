@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://abhishekgr99.github.io/react-portfolio",
+  "homepage": "https://abhishekgr99.github.io/abhi-portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
